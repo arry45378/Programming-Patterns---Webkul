@@ -1,10 +1,10 @@
-# Programming-Patterns---Webkul
+# Programming Patterns - Webkul
 
 <hr>
 
 - this repository is for making patterns using C programming and Python language asked in various interviews.
 
-# Notice
+## Notice
 
 <hr>
 
